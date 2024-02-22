@@ -1,0 +1,6 @@
+@Career_Counselling_HostAddress = http://localhost:5128
+
+GET {{Career_Counselling_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
